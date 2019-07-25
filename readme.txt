@@ -10,5 +10,11 @@ my boos is so stupdi
 
 haha £¬you'r brach in dev
 
+
 Creating a new branch is quick & simple.
 so this bug has fix
+
+Greating a new branch is quick AND  simple
+
+this is feature1 branch we...
+
