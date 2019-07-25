@@ -9,3 +9,4 @@ update again
 my boos is so stupdi
 
 haha £¬you'r brach in dev
+Creating a new branch is quick & simple.
